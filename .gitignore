@@ -2,13 +2,6 @@
 
 # dependencies
 /node_modules
-/src
-/public
-public
-.env
-craco.config.js
-package-lock.json
-package.json
 /.pnp
 .pnp.js
 
@@ -16,7 +9,7 @@ package.json
 /coverage
 
 # production
-/build
+# /build
 
 # misc
 .DS_Store
