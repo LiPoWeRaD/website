@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  @font-face {
+    font-family: 'Play';
+    src: url('fonts/Play-Regular.eot');
+    src: local('Play Regular'), local('Play-Regular'),
+        url('fonts/Play-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Play-Regular.woff2') format('woff2'),
+        url('fonts/Play-Regular.woff') format('woff'),
+        url('fonts/Play-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Play';
+    src: url('fonts/Play-Bold.eot');
+    src: local('Play Bold'), local('Play-Bold'),
+        url('fonts/Play-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Play-Bold.woff2') format('woff2'),
+        url('fonts/Play-Bold.woff') format('woff'),
+        url('fonts/Play-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  }
+
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  :root {
+    --accent1: 252, 66, 201;
+    /* white */
+    --whiteCustom: #F6F6F6;
+    --grayCustom: #00000066;
+    --redCustom: #FF7575;
+    --blueCustom: #6A5DC2;
+    --hoverCustom:#B4A9FF;
+    --placeholderCustom: #fff;
+    --btnCustom: #393B3C;
+    --btnHoverCustom: #747474;
+    --shadowCustom: shadow-[0_0_80px_0_#00000000];
+    --headerCustom: #a0a0a080;
+    --bgNoneCardCustom: #FFFFFF40;
+    /* black */
+    --blackCustom: #121C25;
+    --blackHoverCustom: #393B3C;
+    --blackValueCustom:#FFFFFFCC;
+    --blackPlaceholderCustom:#FFFFFF80;
+    --blackGenretitleCustom: #0A0B0B;
+    --blackCaptionFooterCustom: #FFFFFFB2;
+    --blackShadowCustom: shadow-[0_0_80px_0_#FFFFFF54];
+    --blackHeaderCustom: #00000080;
+  }
+}
+
+
