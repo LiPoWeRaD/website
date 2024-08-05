@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4314f32b.css",
-    "main.js": "/static/js/main.b9b6d8b3.js",
+    "main.css": "/static/css/main.43367a6c.css",
+    "main.js": "/static/js/main.5c8f5666.js",
     "static/js/453.bea66239.chunk.js": "/static/js/453.bea66239.chunk.js",
     "static/media/Play-Bold.eot": "/static/media/Play-Bold.03ca8b5f75f3abd9c67f.eot",
     "static/media/Play-Bold.ttf": "/static/media/Play-Bold.a6920101716c01cfae54.ttf",
@@ -32,12 +32,12 @@
     "static/media/Crime.webp": "/static/media/Crime.247a3440c2e9d599298e.webp",
     "static/media/Drama.webp": "/static/media/Drama.5a0bd523c9db5ddf2189.webp",
     "index.html": "/index.html",
-    "main.4314f32b.css.map": "/static/css/main.4314f32b.css.map",
-    "main.b9b6d8b3.js.map": "/static/js/main.b9b6d8b3.js.map",
+    "main.43367a6c.css.map": "/static/css/main.43367a6c.css.map",
+    "main.5c8f5666.js.map": "/static/js/main.5c8f5666.js.map",
     "453.bea66239.chunk.js.map": "/static/js/453.bea66239.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4314f32b.css",
-    "static/js/main.b9b6d8b3.js"
+    "static/css/main.43367a6c.css",
+    "static/js/main.5c8f5666.js"
   ]
 }
